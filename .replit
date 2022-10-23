@@ -1,0 +1,4 @@
+run = "java interview/Main"
+
+[nix]
+channel = "stable-21_11"
